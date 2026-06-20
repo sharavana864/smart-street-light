@@ -6,6 +6,10 @@ The Smart Street Light Automation System is a simulation-based project designed 
 
 This automation helps reduce energy consumption, minimizes manual intervention, and improves overall lighting efficiency.
 
+![Project Simulation](image.png)
+
+A simulation-based smart street lighting system...
+
 ---
 
 ## Key Features
@@ -62,6 +66,9 @@ This automation helps reduce energy consumption, minimizes manual intervention, 
    * Movement is detected in the vicinity.
    * Light brightness can be increased temporarily for improved visibility.
 
+## Simulation Output
+
+![Simulation Output](Screenshot%202026-06-20%20214413.png)
 ---
 
 ## System Flow
